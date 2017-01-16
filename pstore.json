@@ -1,1 +1,1 @@
-"{\n  \"swagger\": \"2.0\",\n  \"info\": {\n    \"version\": \"1.0.0\",\n    \"title\": \"pstore\"\n  },\n  \"paths\": {}\n}"
+{"swagger":"2.0","info":{"version":"1.0.0","title":"pstore"},"paths":{}}
